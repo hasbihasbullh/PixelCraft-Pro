@@ -1,0 +1,8 @@
+{
+  "name": "ChromaBit Studio",
+  "description": "Professional-grade image processing and forensic metadata suite. Supports advanced color quantization, Lanczos upscaling, and deep EXIF inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

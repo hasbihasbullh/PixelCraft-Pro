@@ -24,7 +24,7 @@ export default function HomePage() {
             <div className="w-8 h-8 md:w-10 md:h-10 bg-[#1A1A1A] rounded flex items-center justify-center shadow-lg shadow-black/10">
               <Layers size={20} className="text-white" />
             </div>
-            <span className="font-black tracking-tighter text-lg md:text-xl uppercase italic">ChromaBit Studio</span>
+            <span className="font-black tracking-tighter text-lg md:text-xl uppercase italic">PixelCraft Pro</span>
           </div>
           
           <div className="hidden sm:flex items-center gap-4">
@@ -175,14 +175,14 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-3 grayscale opacity-40">
             <Layers size={20} />
-            <span className="font-black tracking-tighter text-xl uppercase italic">ChromaBit Studio</span>
+            <span className="font-black tracking-tighter text-xl uppercase italic">PixelCraft Pro</span>
           </div>
           <div className="flex items-center gap-8 text-[10px] font-black uppercase tracking-widest opacity-20">
             <a href="#" className="hover:opacity-100 transition-opacity">Privacy</a>
             <a href="#" className="hover:opacity-100 transition-opacity">Terms</a>
             <a href="#" className="hover:opacity-100 transition-opacity">GitHub</a>
           </div>
-          <p className="text-[10px] font-mono opacity-20 uppercase tracking-widest">© 2026 ChromaBit Studio. Ver 2.4.0</p>
+          <p className="text-[10px] font-mono opacity-20 uppercase tracking-widest">© 2026 PixelCraft Pro. Ver 2.4.0</p>
         </div>
       </footer>
 

@@ -1,8 +1,8 @@
-# ChromaBit Studio 🎨🛠️
+# PixelCraft Pro 🎨🛠️
 
-ChromaBit Studio is an advanced, professional-grade image processing, forensic metadata extraction, and AI-powered chromatic analysis suite. Designed with a clean, high-contrast display aesthetic and an organic minimalist layout, ChromaBit Studio operates as a self-contained local graphics sandbox.
+PixelCraft Pro is an advanced, professional-grade image processing, forensic metadata extraction, and AI-powered chromatic analysis suite. Designed with a clean, high-contrast display aesthetic and an organic minimalist layout, PixelCraft Pro operates as a self-contained local graphics sandbox.
 
-Whether you need forensic-level EXIF inspection, extreme high-speed downscaling/upscaling via Lanczos interpolations, or deep neural pixel color clustering into CIELAB, LCH, and HSV color structures, ChromaBit Studio does it with maximum responsiveness and visual honesty.
+Whether you need forensic-level EXIF inspection, extreme high-speed downscaling/upscaling via Lanczos interpolations, or deep neural pixel color clustering into CIELAB, LCH, and HSV color structures, PixelCraft Pro does it with maximum responsiveness and visual honesty.
 
 ---
 
@@ -70,7 +70,7 @@ Launch the Express reverse proxy and hot asset-reloading compiler bundled with V
 ```bash
 npm run dev
 ```
-The application will boot up and bind to host interface `0.0.0.0` at port `3000`. Open your browser or deployment link to access ChromaBit Studio.
+The application will boot up and bind to host interface `0.0.0.0` at port `3000`. Open your browser or deployment link to access PixelCraft Pro.
 
 ### 4. Compilation & Production Pipeline
 To assemble optimized server engines and bundled client pipelines:

@@ -330,7 +330,7 @@ export default function ProcessorPage() {
     const link = document.createElement('a');
     link.href = processedUrl;
     const originalName = originalFile.name.split('.').slice(0, -1).join('.') || 'processed';
-    link.download = `${originalName}-chromabit.${format}`;
+    link.download = `${originalName}-pixelcraft.${format}`;
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -353,7 +353,7 @@ export default function ProcessorPage() {
                 <Layers size={18} className="text-white" />
               </div>
               <div>
-                <h1 className="font-bold tracking-tight text-sm leading-none">CHROMABIT STUDIO</h1>
+                <h1 className="font-bold tracking-tight text-sm leading-none">PIXELCRAFT PRO</h1>
                 <p className="text-[10px] font-medium opacity-40 mt-1 uppercase tracking-wider hidden sm:block">Image Processing Suite</p>
               </div>
             </div>
